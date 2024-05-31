@@ -1,5 +1,4 @@
-### Hi there 👋
-![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1xenFvdW0zODZjM3M1MHhoMDBnemwxY2dtZjBqMnhpNndod2gydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BGIqWh2R1fi6JDa/giphy.gif)
+### Hi 
 <!--
 **myturnthistime/myturnthistime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
